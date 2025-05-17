@@ -111,8 +111,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any queries or issues, feel free to contact:
 
-- **Author**: SkorpionOP
-- **GitHub**: [https://github.com/SkorpionOP](https://github.com/SkorpionOP)
+- **Author**: ELISA
+- **GitHub**: [https://github.com/Elisa776](https://github.com/Elisa776)
 
 ---
 
